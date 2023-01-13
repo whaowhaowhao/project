@@ -1,0 +1,36 @@
+
+
+ .neirong{
+    background-color:rgb(210, 206, 206);
+    display: inline-table;
+    width: 46%;
+    height: 400px;
+    padding: 10px;
+    border-radius: 10px;
+   
+}
+.neirong img {
+    width: 20%;
+    float: left;
+}
+div a p{
+    font-size: 25px;
+   margin-left: 5%;
+   background-color: #fff;
+   width: 60px;
+   padding-left: 10px;
+   padding-right: 10px;
+   border-radius: 6px;
+}
+a:link{
+   text-decoration: none;
+}
+a p {
+    color: black;
+}
+.biaoyv{
+    color:black;
+    font-size: 30px;
+    position: relative;
+   left: 36%;
+}

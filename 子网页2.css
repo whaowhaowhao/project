@@ -1,0 +1,26 @@
+div{
+   text-align: center;
+   margin: 10px;
+}
+nav{
+    margin: auto;
+    background-color: #fff;
+}
+div nav {
+   background-color: rgb(230, 230, 230);
+    border-radius: 20px;
+   margin: 50px;
+   padding: 10px;
+}
+div nav img {
+    float: left;
+}
+footer{
+    background-color: rgb(170, 178, 186);
+    padding: 2%;
+}
+a img{
+    position: fixed;
+    left: 6%;
+    top: 60%;
+}

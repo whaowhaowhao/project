@@ -1,0 +1,63 @@
+/* 子网页--鲁迅先生 */
+.ziwangye1{
+    background-color: rgb(224, 177, 115);
+}
+/* 侧边栏 */
+.cebianlan {
+    position: fixed;
+    left: 5%;
+    background-color: rgba(221, 231, 170, 0.545);
+    top: 30%;
+    padding: 20px;
+    border-radius: 40px;
+}
+.cebianlan p:hover{
+    background-color: rgb(225, 170, 98);
+}
+.cebianlan a img{
+    position: relative;
+    left: 50px;
+}
+div p {
+    margin-top: 15px;
+    padding-left: 50px;
+    padding-right: 30px;
+}
+
+div p a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.ziwangye1 nav img{
+   width: 40%;
+}
+/* 内容居中 */
+.tupian{
+    text-align: center;
+}
+/* 文字悬于图片上 */
+nav h1{
+    position: absolute;
+    z-index: 50;
+    left: 40%;
+    top: 40px;
+   font-size: 50px;
+  }
+  /* 内容 */
+ main {
+    width: 50%;
+    margin: auto;
+    border-left: solid 10px rgba(26, 31, 3, 0.545);
+    border-right:solid 10px rgba(26, 31, 3, 0.545);
+    padding-left: 50px;
+    padding-right: 50px;
+ }
+ /* 表格 */
+ main table tr td{
+    padding-bottom: 5px;
+ }
+ main table{
+    margin-bottom: 100px;
+ }
+ 
